@@ -18,4 +18,4 @@ To set up the project locally, follow these steps:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/nim-game-ai.git
+https://github.com/Sankalp0030/NIM-by-RL.git
